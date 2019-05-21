@@ -1,0 +1,10 @@
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.csprojAssemblyReference.cache
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.Form1.resources
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.Properties.Resources.resources
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.csproj.GenerateResource.cache
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.csproj.CoreCompileInputs.cache
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\bin\Debug\CourseDoc.exe.config
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\bin\Debug\CourseDoc.exe
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\bin\Debug\CourseDoc.pdb
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.exe
+C:\Users\Thien Tran\source\repos\CourseDoc\CourseDoc\obj\Debug\CourseDoc.pdb
